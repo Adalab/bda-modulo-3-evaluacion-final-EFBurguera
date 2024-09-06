@@ -5,8 +5,8 @@ This repository contains the exercises of the Evaluation of ADALAB's Module-3-Pr
 
 Files included are a Jupyter notebook with my proposed solutions for the ejercises and 3 cvs files. The first 2, described below, are the original files provided with the exercise, they together describe customer behavior within an airline loyalty program. 
 <span style="color:green">
-    - Customer Flight Analysis.csv
-    - Customer Loyalty History.csv
+    ```- Customer Flight Analysis.csv```
+    ```- Customer Loyalty History.csv```
 
 The third file, ```customer_flight_loyalty_clean.csv```, is the result of merging, cleaning and organizing the data.
 
@@ -56,15 +56,23 @@ The exercises consist of three phases:
 - Descriptive statistics of main data
 
 **<span style="color:red">Phase 2: Visualization**
+
 Use different visualization tools to answer these questions:
+
 **1.** How are "flights booked" per month distributed over the year?
+
 **2.** Is there any relation between "distance" and "points_accumulated"?
+
 **3.** How are customers distributed by State or province?
+
 **4.** How does the mean salary compare amongst the different education levels? 
+
 **5.** What is the proportion of customers with each of the different loyalty cards?
+
 **6.** How are customers distributed according to their marital status and their gender?
 
-**<span style="color:red">Phase 3: Bonus**
+**<span style="color:red">Phase 3: Bonus:**
+
 Evaluating Differences in Flight Booked by Educational Level
 - Data preparation
 - Descriptive analyses
